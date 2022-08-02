@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  color: rgba(255, 0, 0, 0.663);
+}
+
+h2{
+  color:rgb(41, 41, 178);
+}
+
+/* #bot_submit {
+  background-color: #04AA6D;
+  cursor: pointer;
+} */
+
+body {
+  background-image: url('https://wallpaperaccess.com/full/2498591.jpg');
+  background-position: top right;
+  background: no-repeat, cover;
+}
